@@ -11,3 +11,9 @@ Backend
 cd eng-trabalho/Trabalho-Engenharia-De-Software/pizzaria-app/src/app/backend
 npm install
 npm run dev
+
+
+ACESSAR TELA DE ADMINISTRADOR:
+
+Login:  admin@pizzaria.com
+Senha: admin123
